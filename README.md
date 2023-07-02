@@ -16,6 +16,10 @@ Description
 Getting Started
 
 
+You can use any browser to run the code on any local machine, here I'm using Remix.
+
+
+
 1. Open remix IDE create a file and name it
 2. Add license and solidity compiler version
 
@@ -23,3 +27,10 @@ Getting Started
 Executing program
 1. Compile the contract from the button given in the left menu bar
 2. After the successful compilation Deploy the contract
+
+
+Authors
+
+Deepika.
+
+
