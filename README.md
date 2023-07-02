@@ -7,10 +7,9 @@ Use solidity error handling functions.
 
 Description
 
+In this contract, the contract should have require(), assert(), and revert() statements. All these solidity functions take parameters, and after the successful compilation, we will run the deploy the contract. And check whether the functions works or not.
 
-1. Contract successfully uses require()
-2. Contract successfully uses assert()
-3. Contract successfully uses revert() statements
+
 
 
 Getting Started
